@@ -7,7 +7,12 @@
 			"email" : "jungbaksa@jungbaksa.com"
 		}
 	],
-	"minimum-stability" : "stable",
+	"repositories": [
+	       {
+		   "type": "git",
+		   "url": "https://github.com/jungbaksacom/task-process.git"
+	       }
+   	],
 	"autoload" : {
 		"psr-4" : {
 			"jungbaksacom\\task-process\\" : "src"
