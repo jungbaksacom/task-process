@@ -1,0 +1,16 @@
+{
+	"name" : "jungbaksacom/task-process",
+	"description" : "task-process",
+	"type" : "library",
+	"authors" : [{
+			"name" : "jungbaksa",
+			"email" : "jungbaksa@jungbaksa.com"
+		}
+	],
+	"minimum-stability" : "stable",
+	"autoload" : {
+		"psr-4" : {
+			"jungbaksacom\\task-process\\" : "src"
+		}
+	}
+}
