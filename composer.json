@@ -1,6 +1,8 @@
 {
 	"name" : "jungbaksacom/task-process",
 	"description" : "task-process",
+	"version": "1.0.0",
+	"minimum-stability": "stable",
 	"type" : "library",
 	"authors" : [{
 			"name" : "jungbaksa",
